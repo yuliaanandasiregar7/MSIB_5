@@ -1,0 +1,23 @@
+#blue {
+  background-color: rgb(31, 98, 174);
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+#orange {
+  background-color: rgb(252, 129, 52);
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+#green {
+  background-color: rgb(13, 132, 41);
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+#sejajar {
+  display: flex;
+  float: left;
+  margin-right: 50px;
+}
