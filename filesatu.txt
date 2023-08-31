@@ -1,3 +1,4 @@
 pembelajaran MSIB
 - HTML adalah kerangka website
-- CSS merapikan dokumen dan mewarnaik dokumen HTM
+- CSS merapikan dokumen dan mewarnaik dokumen HTML
+- CSS untuk merapihkan dokumen dan mewarnai dokumen HTML
