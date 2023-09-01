@@ -1,0 +1,4 @@
+git branch -> untuk menampilakn list branch yang ada
+git branch nama_branch -> untuk mrmbuat branch baru
+git checkout nama_branch -> berpindah dari satu branch ke branch lain
+git branch -b nama_branch -> digunakan untuk membuat branch baru sekaligus berpindah ke branch
